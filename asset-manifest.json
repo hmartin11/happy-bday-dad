@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/happy-bday-dad/static/css/main.c712cdd1.css",
+    "main.js": "/happy-bday-dad/static/js/main.a49b2137.js",
+    "static/js/453.f34d43d4.chunk.js": "/happy-bday-dad/static/js/453.f34d43d4.chunk.js",
+    "static/media/falls.jpeg": "/happy-bday-dad/static/media/falls.a8e56946026f337a9c81.jpeg",
+    "static/media/cat2.jpeg": "/happy-bday-dad/static/media/cat2.fc688e27b2014d690995.jpeg",
+    "static/media/skiing.jpeg": "/happy-bday-dad/static/media/skiing.6d6a19cc6951077b542f.jpeg",
+    "static/media/dadwhis.jpeg": "/happy-bday-dad/static/media/dadwhis.6cbbf03a079d543497c7.jpeg",
+    "static/media/lil2.jpg": "/happy-bday-dad/static/media/lil2.a659f4b1bd3ea2913cea.jpg",
+    "index.html": "/happy-bday-dad/index.html",
+    "main.c712cdd1.css.map": "/happy-bday-dad/static/css/main.c712cdd1.css.map",
+    "main.a49b2137.js.map": "/happy-bday-dad/static/js/main.a49b2137.js.map",
+    "453.f34d43d4.chunk.js.map": "/happy-bday-dad/static/js/453.f34d43d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c712cdd1.css",
+    "static/js/main.a49b2137.js"
+  ]
+}
